@@ -1,5 +1,7 @@
 # Fire-Detection-Alarm-Using-Arduino
 
+TinkerCAD LINK: https://www.tinkercad.com/things/kS91Rh8O9X0
+
 Fire alarm detection project demonstrates the use of Arduino to build a fire detection system using the sensors which measure temperature of the environment in which it is present and also measure concentration of gas that might cause fire (methane, alcohol) or is caused because of fire (carbon monoxide, carbon dioxide etc.).
 
 The fire alarm detection system remains idle unless there is a fire outbreak. The system in idle condition glows green LED, keeps the micro servos(doors) closed, displays SAFE message on the LCD display along with the current temperature and gas concentration in the room/hall where the sensors are installed.
