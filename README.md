@@ -1,6 +1,6 @@
 # Fire-Detection-Alarm-Using-Arduino
 
-TinkerCAD LINK: https://www.tinkercad.com/things/kS91Rh8O9X0
+TinkerCAD(Circuit Simulation Platform) LINK: https://www.tinkercad.com/things/kS91Rh8O9X0
 
 Fire alarm detection project demonstrates the use of Arduino to build a fire detection system using the sensors which measure temperature of the environment in which it is present and also measure concentration of gas that might cause fire (methane, alcohol) or is caused because of fire (carbon monoxide, carbon dioxide etc.).
 
